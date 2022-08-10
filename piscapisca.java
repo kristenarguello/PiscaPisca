@@ -11,7 +11,7 @@ public class piscapisca {
     public static void main (String [] args) {
         int[][] matriz = new int[10][10];
         int l = 0, letra = 0, contador=0;
-        String conteudo = "5483143223274585471152645561736141336146635738547841675246452176841721688288113448468485545283751526";
+        String conteudo = "1224346384562112858763884265461556247756145181157318323881222748545647258287743231856438712224876627";
         //transformar em matriz
         for (int x=0;x<matriz.length;x++) {
             for (int y=0;y<matriz[0].length;y++) {
